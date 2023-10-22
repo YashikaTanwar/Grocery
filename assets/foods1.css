@@ -1,0 +1,90 @@
+.first-header img{
+	height:80px;
+	width:80px;
+}
+.third-header img{
+	object-fit:cover;
+	height:100%;
+	width:100%;
+	margin-bottom:40px;
+}
+.card-header img{
+	width:300px;
+	box-shadow:1px 1px 4px 0px #d8d8d8;
+	height:300px;
+}
+.card-header{
+	overflow:hidden;
+	width:100%;
+	height:300px;
+}
+.card-header img:hover{
+	transform:scale(1.1);
+	transition:0.9s ease-in-out;
+}
+.card-header1{
+	width: 100%;
+    height: 250px;
+	overflow:hidden;	
+}
+.card-header1 img:hover{
+	transform:scale(1.2);
+	transition:0.9s ease-in-out;
+}
+button{
+	height:50px;
+	width:150px;
+	border:none;
+	font-size:15px;
+	color:white;
+	background-color:#631123;
+}
+#view{
+	display:flex;
+	margin:auto;
+}
+.column img{
+	margin-right:10px;
+}
+.eighth-header img{
+	width:570px;
+	height:130px;
+	margin-bottom:15px;
+}
+.ninth-header img{
+	object-fit:cover;
+	width:390px;
+	height:250px;
+}
+.ninth-header .info{
+	font-size:17px;
+	text-align:center;
+	margin-bottom:40px;
+}
+.ninth-header .heading{
+	font-size:25px;
+	text-align:center;
+}
+.heading{
+	font-weight:bold;
+}
+.cart h1{
+	text-align:center;
+	font-weight:bold;
+	font-size:40px;
+}
+.cart button{
+	width:230px;
+}
+.first-row p{
+	font-size:20px;
+}
+.first-row h1{
+	font-weight:bold;
+	font-size:40px;
+}
+#ready{
+	height:550px;
+	width:550px;
+	object-fit:cover;
+}
